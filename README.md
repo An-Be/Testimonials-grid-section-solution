@@ -28,9 +28,9 @@ Users should be able to:
 ![](/images/Screenshot-large.png)
 ![](/images/screenshot-small.png)
 
-### Links
+<!-- ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
